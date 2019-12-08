@@ -2,6 +2,4 @@
 
 First change
 
-Edit READ-ME
-
-Update locally
+Updates made on master Github before rebase
